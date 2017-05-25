@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="VerticalSlideColorPicker">
+		<attr name="trackerDefColor" format="color" />
+		<attr name="trackerOffset" format="dimension" />
+		<attr name="colors" format="reference" />
+	</declare-styleable>
+</resources>
